@@ -32,7 +32,7 @@ The best-performing submission used a blend of model predictions based on Wav2Ve
 ## Repository Contents
 
 - `SHL_Grammar_Scoring.ipynb` — Initial experimentation and modeling notebook.
-- `shl_mean_std_blend_candidate.csv` — Best-performing Kaggle submission file.
+- `Darshan_Badgujar.csv` — Best-performing Kaggle submission file.
 
 **Note:** The initial notebook does not, by itself, reproduce the best leaderboard score. The final feature extraction and model-blending pipeline should also be included for full reproducibility.
 
